@@ -1,0 +1,10 @@
+import AppWrapper from '@/components/AppWrapper';
+import * as React from 'react'
+
+export default function Contact(): JSX.Element{
+    return (
+        <AppWrapper>
+            
+        </AppWrapper>
+    );
+}
